@@ -1,7 +1,7 @@
 class Gister < Formula
   homepage "https://github.com/dutchcoders/gister"
-  url "https://github.com/dutchcoders/gister/archive/v1.0.0.tar.gz"
-  sha256 "fcf65f987af6041e115b830bc38b83c02e33f54c1677c18e00b7fcc950b7abc5"
+  url "https://github.com/dutchcoders/gister/archive/v1.0.1.tar.gz"
+  sha256 "28339f1e51d2e96e87325c844351ccf4be04dfe783ff5ebeadd2742ca347d227"
   head "https://github.com/dutchcoders/gister.git"
 
   depends_on "go" => :build
